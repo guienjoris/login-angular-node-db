@@ -1,0 +1,19 @@
+{
+"data": [
+{
+    "id":1,
+    "login": "tutu",
+    "email": "tutu@gmail.com"
+},
+{
+    "id":2,
+    "login":"titi",
+    "email":"titi@gmail.com"
+},
+{
+    "id":3,
+    "login":"toto",
+    "email":"toto@gmail.com"
+}
+]
+}
