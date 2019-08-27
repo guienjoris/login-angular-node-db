@@ -19,7 +19,7 @@ export class CheckService {
     httpOptions.headers.append('Access-Control-Allow-Credentials', 'true');
    }
   url = 'http://localhost:4000';
-  getUsers(string){
+  getUsers(){
   return this.http.get(`${this.url}/data`);
   }
 }
